@@ -1,6 +1,5 @@
-# Amazon Clone
-
-A full-stack Amazon clone built with React.js, Tailwind CSS, Node.js, Express, and MongoDB. This project replicates key features of the Amazon website, including authentication, shopping cart, and order management.
+# Distinct App
+A full-stackapp built with React.js, Tailwind CSS, Node.js, Express, and MongoDB. 
 
 ## Features
 
@@ -19,12 +18,12 @@ A full-stack Amazon clone built with React.js, Tailwind CSS, Node.js, Express, a
 
 1. Clone the repository:
    ### Frontend
-   * git clone https://github.com/Hawzz7/amazon_frontend.git
+   * (https://github.com/garima691wiz/website.git)
 
 
 2. Install all dependencies for both frontend and backend:
     ### Frontend
-   * cd amazon_frontend
+   * cd ECOMMERCE-SITE-ORINSONTECH
    * npm install
  
 3. ### Environment Variables: Create a .env file in the root of the project at backend file and add the following variables:
@@ -47,4 +46,4 @@ On email:
 * garima691wiz@gmail.com
 
 Or connect on linkedin:
-* Narendra Kumar Majhi :- https://www.linkedin.com/in/garima-majhi-722452208
+*GARIMA MAJHI :- https://www.linkedin.com/in/garima-majhi-722452208
