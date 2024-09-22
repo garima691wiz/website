@@ -39,7 +39,7 @@ A full-stackapp built with React.js, Tailwind CSS, Node.js, Express, and MongoDB
   
   ## Deployment Link
 
-  * https://amzone-frontend.vercel.app
+  * [https://amzone-frontend.vercel.app](https://ecomwebsite11.netlify.app/)
 
   ## Contact :-
 On email:
