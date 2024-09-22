@@ -21,8 +21,7 @@ A full-stackapp built with React.js, Tailwind CSS, Node.js, Express, and MongoDB
    * (https://github.com/garima691wiz/website.git)
 
 
-2. Install all dependencies for both frontend and backend:
-    ### Frontend
+2. Install all dependencies for both frontend
    * cd ECOMMERCE-SITE-ORINSONTECH
    * npm install
  
